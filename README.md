@@ -15,7 +15,7 @@ Terminal is useful for several things.
 - The second is to download and import dependencies. As you begin to code, you will need to import frameworks, tools and libraries and running the download commands via your terminal is the best way to do that
 - Other reasons to use terminal is that it provides you the interface to run CURL commands, use git for managing your projects and for troubleshooting your servers if they are deployed. For now though, do not worry about this.
 
-*Basic commands*
+####Basic commands
 A few terminal commands that you want to get use to include
 1) *ls* - this lets your see all the files/folders in the directory that you are currently in
 2) *cd folder_name* - this lets you nagivate into a folder that is held in the directory you are in
