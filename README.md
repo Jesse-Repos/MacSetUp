@@ -15,7 +15,7 @@ Terminal is useful for several things.
 - The second is to download and import dependencies. As you begin to code, you will need to import frameworks, tools and libraries and running the download commands via your terminal is the best way to do that
 - Other reasons to use terminal is that it provides you the interface to run CURL commands, use git for managing your projects and for troubleshooting your servers if they are deployed. For now though, do not worry about this.
 
-###Basic Written Commands for terminal
+### Basic Written Commands for terminal
 A few terminal commands that you want to get use to include
 1) *ls* - this lets your see all the files/folders in the directory that you are currently in
 2) *cd folder_name* - this lets you nagivate into a folder that is held in the directory you are in
@@ -23,7 +23,7 @@ A few terminal commands that you want to get use to include
 4) *cd* - this lets you jump back to your root folder
 5) *touch my_file_name* - this lets you create a file in your current directory
 
-###Basic Mac Commands for Terminal
+### Basic Mac Commands for Terminal
 1) *Control + c* - This lets you start a new line on your terminal interface
 2) *Command + k* - This cleans your terminal interface in case you can a fresh screen
 3) *Command + t* - This lets you open a new tab in your terminal. This can be useful if you want to run different programs simultaneously or have different projects opened
@@ -40,7 +40,7 @@ As you continue in your journey, know that you will start to leverage dependenci
 
 *NOTE: After downloading these softwares, you may run into issues where expected commands aren't working. If this is the case, try closing your terminal and opening it again*
 
-###Homebrew
+### Homebrew
 First, lets install Homebrew: https://brew.sh/. Copy the command into your terminal and watch it install
 
 Homebrew is a package management system that helps you install other dependencies onto your system. Essentially, it helps download the stuff you need with its comamnds. 
@@ -71,14 +71,14 @@ For now let's just install Atom and Visual Studio
 
 Once downloaded, you can open either of these IDEs through your terminal. Simply type in `atom .` or `code .` With this you can now go to any project you want and open it on your IDE and start coding!
 
-##Git and GitHub
+## Git and GitHub
 
 One final thing to do is to great a GitHub Account. GitHub is a version manager platform that helps in tracking, updating and keeping your code base. Essentailly, it's place where you can `push` up your code and keep track of the changes.
 
 The way you can push up your changes is by using Git. You can download this by running `brew install git`. 
 
 
-###BreakDown on GitHub
+### BreakDown on GitHub
 
 Github stores your projects in what we call `repositories`. This is simply the place/folder where yous have your files of code and other resources stored in. You can make private and public repositories and maange them via different setttings. You can download repositories by copying the git url homepage and use `git clone repository_url`
 
@@ -92,7 +92,7 @@ The process of make a commit is straight forward. First, lets assume you have so
 4) `git push` - Once you committed your files,  you will see that if you run the `git status`, those are no longer shown. Don't worry that's normal since git status only shows files that have changes and are not commited. But just becasue they are committed, it doens't mean that they ahve been pushed up into GitHub. So run `git push` in order to finally push up the changes and see it being reflected in your repository
 
 
-##Final Note
+## Final Note
 
 It's crucial to note that this is only a basic set up. There's a lot more features to terminal, git, GitHub, node, npm and IDEs that this is not covering
 I would recommend targeting the following things. As always, read as much as you can and use google to find the answers to any issues you have.
