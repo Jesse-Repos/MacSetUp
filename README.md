@@ -58,9 +58,9 @@ Verification: `node -v`, `npm -v`
 
 ## Installing an IDE
 
-An IDE is simply an interface that let's you open your files/folders and see/write your code. Examples of this would include `Eclipse`, `Intellij`, `Atom` and `Visual Studios`
+An IDE is simply an interface that let's you open your files/folders and see/write your code. Examples of this would include `Eclipse`, `IntelliJ`, `Atom` and `VS Code`
 
-For now let's just install Atom and Visual Studio
+For now let's just install Atom and VsCode
 
 ### Atom
 - Download Atom (https://atom.io/)
