@@ -17,19 +17,19 @@ Terminal is useful for several things.
 
 ### Basic Written Commands for terminal
 A few terminal commands that you want to get use to include
-1) `*ls*` - this lets your see all the files/folders in the directory that you are currently in
-2) `*cd folder_name*` - this lets you nagivate into a folder that is held in the directory you are in
-3) `*cd ..*`  -  this lets you jump back one folder back 
-4) `*cd*` - this lets you jump back to your root folder
-5) `*touch my_file_name*` - this lets you create a file in your current directory
+1) `ls` - this lets your see all the files/folders in the directory that you are currently in
+2) `cd folder_name` - this lets you nagivate into a folder that is held in the directory you are in
+3) `cd ..`  -  this lets you jump back one folder back 
+4) `cd` - this lets you jump back to your root folder
+5) `touch my_file_name` - this lets you create a file in your current directory
 
 ### Basic Mac Commands for Terminal
-1) `*Control + c*` - This lets you start a new line on your terminal interface
-2) `*Command + k*` - This cleans your terminal interface in case you can a fresh screen
-3) `*Command + t*` - This lets you open a new tab in your terminal. This can be useful if you want to run different programs simultaneously or have different projects opened
-4) `*Comman + w*` - This let's you close the current tab you are in
-5) `*Comman + q*` - This let's you close your entire terminal
-6) `*Up key*` -  This lets you scroll through the previous commands that you ran on your terminal.
+1) `Control + c` - This lets you start a new line on your terminal interface
+2) `Command + k` - This cleans your terminal interface in case you can a fresh screen
+3) `Command + t` - This lets you open a new tab in your terminal. This can be useful if you want to run different programs simultaneously or have different projects opened
+4) `Comman + w` - This let's you close the current tab you are in
+5) `Comman + q` - This let's you close your entire terminal
+6) `Up key` -  This lets you scroll through the previous commands that you ran on your terminal.
  
 
 There are many other commands that you can research but for now, these should suffice. We will cover a few more once we introduce git, node and IDEs
